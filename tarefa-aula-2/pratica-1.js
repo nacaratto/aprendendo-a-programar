@@ -1,4 +1,5 @@
-let nome 
-let email
-let profissao
-let idade
+let nome = "leticia"
+let email = "leticianacaratto6@gmail.com"
+let profissao = "futura programadora"
+let idade = " 16"
+let lugar = "coreia do sul "
